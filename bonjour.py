@@ -1,1 +1,2 @@
-print("Bonjour !")
+def bonjour(hi):
+    return f""Bonjour, {hi}!!""
